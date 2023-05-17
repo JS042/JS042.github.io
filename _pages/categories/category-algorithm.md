@@ -1,6 +1,6 @@
 ---
 title: "알고리즘"
-layout: archive
+layout: category
 permalink: /categories/algorithm/
 author_profile: true
 taxonomy: 알고리즘
