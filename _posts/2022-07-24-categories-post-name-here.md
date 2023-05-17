@@ -1,19 +1,19 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[Python] 백준 1890 - 점프"
+excerpt: ""
 
 categories:
   - Categories1
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here/
+permalink: /categories1/BOJ1890/
 
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2023-05-17
+last_modified_at: 2023-05-17
 ---
 
 ## 🦥 본문
