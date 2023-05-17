@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: https://JS042.github.io/
 
-  # - title: "Projects"
-  #   url: /projects/
-
    - title: "Categories"
      url: /categories/
 
