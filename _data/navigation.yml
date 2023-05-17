@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: https://JS042.github.io/
 
-   - title: "Categories"
-     url: /categories/
+  - title: "Categories"
+    url: /categories/
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
