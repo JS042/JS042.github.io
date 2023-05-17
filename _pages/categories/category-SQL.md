@@ -5,5 +5,5 @@ permalink: /categories/SQL/
 author_profile: true
 taxonomy: SQL
 sidebar:
-  nav: "SQL"
+  nav: "categories"
 ---

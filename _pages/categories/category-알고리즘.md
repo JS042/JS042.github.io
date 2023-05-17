@@ -5,5 +5,5 @@ permalink: /categories/알고리즘/
 author_profile: true
 taxonomy: 알고리즘
 sidebar:
-  nav: "알고리즘"
+  nav: "categories"
 ---
