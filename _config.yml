@@ -100,7 +100,8 @@ analytics:
 author:
   name: "밥고래" # 블로그 닉네임
   avatar: "/assets/images/bread.png" # 블로그 프로필 사진
-  email            : "ulight_0@naver.com"
+  email: "ulight_0@naver.com"
+  etc: "맛난 걸 먹기 위한 공부"
 
   links: # 사이트 링크
 #     - label: "Email"
