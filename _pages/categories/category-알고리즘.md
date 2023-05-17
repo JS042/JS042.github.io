@@ -1,9 +1,11 @@
 ---
 title: "알고리즘"
-layout: category
-permalink: /categories/알고리즘/
+layout: archive
+permalink: /categories/algorithm/
 author_profile: true
-taxonomy: 알고리즘
-sidebar:
-  nav: "categories"
+sidebar_main: true
 ---
+
+
+{% assign posts = site.categories.Cpp %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
