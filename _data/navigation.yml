@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: https://JS042.github.io/
 
-  - title: "About"
-    url: /about/
-
   - title: "GitHub"
     url: https://github.com/JS042
 
@@ -18,11 +15,12 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "코딩테스트"
+    children:
+      - title: "알고리즘"
+        url: /categories/알고리즘/
+      - title: "SQL"
+        url: /categories/SQL/
+
+  - title: "프로젝트"
+    url: /categories/project/
