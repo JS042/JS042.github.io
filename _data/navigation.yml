@@ -16,5 +16,9 @@ categories:
       - title: "SQL"
         url: /categories/SQL/
 
-  - title: "프로젝트"
-    url: /categories/project/
+  - title: "기초 문법"
+    children:
+      - title: "Python 문법"
+        url: /categories/python/
+      - title: "SQL 문법"
+        url: /categories/sql_basic/
