@@ -20,5 +20,7 @@ categories:
     children:
       - title: "Python 문법"
         url: /categories/python/
+      - title: "데이터 분석"
+        url: /categories/DA/	
       - title: "SQL 문법"
         url: /categories/sql_basic/
