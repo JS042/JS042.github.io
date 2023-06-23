@@ -18,9 +18,11 @@ categories:
 
   - title: "기초 문법"
     children:
-      - title: "데이터 분석"
-        url: /categories/DA/
       - title: "Python 문법"
         url: /categories/python/
       - title: "SQL 문법"
         url: /categories/sql_basic/
+      - title: "데이터 분석"
+        url: /categories/DA/
+      - title: "통계 분석"
+        url: /categories/stats/
